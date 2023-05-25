@@ -8,17 +8,17 @@ Contact Point:
 Table of contents
 =================
 
-* [Instructions and templates](#instructions-and-templates)
+* [Instructions and templates](#instructions-and-templates-polito-students-only)
 * Audio and Speech Processing
-    * [Emotional Speech Synthesis](#emotional-speech-synthesis)
-    * [Investigating fairness and bias in E2E SLU Models](#investigating-fairness-and-bias-in-E2E-SLU-Models)
-    * [Combining Speech and Text Language Models](#combining-speech-and-text-language-models)
+    * [Emotional Speech Synthesis](#emotional-speech-synthesis-)
+    * [Investigating fairness and bias in E2E SLU Models](#investigating-fairness-and-bias-in-e2e-slu-models-)
+    * [Combining Speech and Text Language Models](#combining-speech-and-text-language-models-)
 
 
 Instructions and templates (PoliTO students only)
 ============
 
-If you are a student from Politecnico di Torino the latex template to write the master thesis is avaiable in [Overleaf](https://it.overleaf.com/latex/templates/master-thesis-template-polito/jvfrbmxqkscw)
+If you are a student from Politecnico di Torino the latex template to write the master thesis is avaiable in [Overleaf](https://it.overleaf.com/latex/templates/master-thesis-template-polito/jvfrbmxqkscw).
 
 The first step is to create a GitHub Educational account and create an ad-hoc repository containing all relevant code and information for the master thesis.
 
