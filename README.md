@@ -12,6 +12,7 @@ Table of contents
 * Audio and Speech Processing
     * [Emotional Speech Synthesis](#emotional-speech-synthesis-)
     * [Investigating fairness and bias in E2E SLU Models](#investigating-fairness-and-bias-in-e2e-slu-models-)
+    * [Speech XAI, explaining reasons behind speech model predictions](#speech-xai-explaining-reasons-behind-speech-model-predictions-)
     * [Combining Speech and Text Language Models](#combining-speech-and-text-language-models-)
 
 
@@ -91,6 +92,28 @@ The **main objectives** of this thesis are:
 1. [Exploring Subgroup Performance in End-to-End Speech Models](https://ieeexplore.ieee.org/abstract/document/10095284/)
 2. [Toward Fairness in Speech Recognition](https://assets.amazon.science/e4/33/8a2b9e044cc69f7074de4e6c2c7c/toward-fairness-in-speech-recognition-discovery-and-mititation-of-performance-disparities.pdf)
 3. [Shedding light on fairness in AI with a new data set](https://ai.facebook.com/blog/shedding-light-on-fairness-in-ai-with-a-new-data-set/)
+
+***
+
+### Speech XAI, explaining reasons behind speech model predictions <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Speech XAI - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+
+![immagine](images/speech_xai.png)
+from *[The AI SUmmer](https://theaisummer.com/xai/)* 
+
+Speech XAI focuses on providing insights into the reasons behind predictions made by speech models. This emerging field aims to enhance transparency and interpretability in speech recognition and synthesis systems. By employing various techniques such as attention mechanisms, saliency maps, and feature importance analysis, Speech XAI enables users to understand why a particular prediction was made. This empowers users to gain insights into the underlying decision-making processes of speech models, fostering trust, accountability, and enabling targeted improvements to ensure more accurate and reliable speech-based applications.
+
+The **main objectives** of this thesis are:
+- Analyze the state-of-the-art XAI techniques.
+- Design a novel pipeline to analyze and debug speech models and their predictions.
+- Demonstrate the effectiveness of the proposed approach using renowned benchmarks (e.g., [SUPERB](https://superbbenchmark.org/)).
+
+**References:**
+
+1. [Towards Relatable Explainable AI with the Perceptual Process](https://dl.acm.org/doi/fullHtml/10.1145/3491102.3501826)
+2. [Exploring Subgroup Performance in End-to-End Speech Models](https://ieeexplore.ieee.org/abstract/document/10095284/)
+3. [Towards Measuring Fairness in Speech Recognition](https://arxiv.org/abs/2111.09983)
 
 
 ***
