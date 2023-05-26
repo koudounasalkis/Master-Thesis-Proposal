@@ -100,7 +100,8 @@ The **main objectives** of this thesis are:
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
 
 ![immagine](images/speech_xai.png)
-from *[The AI SUmmer](https://theaisummer.com/xai/)* 
+
+from *[The AI Summer](https://theaisummer.com/xai/)* 
 
 Speech XAI focuses on providing insights into the reasons behind predictions made by speech models. This emerging field aims to enhance transparency and interpretability in speech recognition and synthesis systems. By employing various techniques such as attention mechanisms, saliency maps, and feature importance analysis, Speech XAI enables users to understand why a particular prediction was made. This empowers users to gain insights into the underlying decision-making processes of speech models, fostering trust, accountability, and enabling targeted improvements to ensure more accurate and reliable speech-based applications.
 
