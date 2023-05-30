@@ -115,6 +115,7 @@ The **main objectives** of this thesis are:
 1. [Towards Relatable Explainable AI with the Perceptual Process](https://dl.acm.org/doi/fullHtml/10.1145/3491102.3501826)
 2. [Exploring Subgroup Performance in End-to-End Speech Models](https://ieeexplore.ieee.org/abstract/document/10095284/)
 3. [Towards Measuring Fairness in Speech Recognition](https://arxiv.org/abs/2111.09983)
+4. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 
 ***
