@@ -120,7 +120,7 @@ The **main objectives** of this thesis are:
 
 ***
 
-### Combining Speech and Text Language Models <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Speech and Text Language Models - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Combining Speech and Text Language Models <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Speech and Text Language Models - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
 
