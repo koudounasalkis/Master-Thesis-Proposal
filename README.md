@@ -9,11 +9,16 @@ Table of contents
 =================
 
 * [Instructions and templates](#instructions-and-templates-polito-students-only)
+    * [State-of-the-art exploration](#state-of-the-art-exploration)
+    * [Data collection and finding](#data-collection-and-finding)
+    * [Code development](#code-development)
+
 * [Theses on Audio and Speech Processing](#theses-on-audio-and-speech-processing)
     * [Emotional Speech Synthesis](#emotional-speech-synthesis-)
     * [Investigating fairness and bias in E2E SLU Models](#investigating-fairness-and-bias-in-e2e-slu-models-)
     * [Speech XAI, explaining reasons behind speech model predictions](#speech-xai-explaining-reasons-behind-speech-model-predictions-)
     * [Combining Speech and Text Language Models](#combining-speech-and-text-language-models-)
+
 * [Graduated Students](#graduated-students)
 
 
@@ -43,7 +48,7 @@ The code must be documented and easy to use.
 It also must be tested and be able to run on a different machine.
 
 
-Theses on Audio and Spech Processing
+Theses on Audio and Speech Processing
 ============
 
 ### Continual Learning in Spoken Language Understanding scenarios <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Continual Learning for SLU - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
