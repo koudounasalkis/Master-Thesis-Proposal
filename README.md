@@ -14,12 +14,13 @@ Table of contents
     * [Code development](#code-development)
 
 * [Thesis Projects on Audio and Speech Processing](#thesis-projects-on-audio-and-speech-processing)
-    * [Continual Learning in Spoken Language Understanding scenarios](#continual-learning-in-spoken-language-understanding-scenarios-)
-    * [Fearless Step APOLLO](#fearless-step-apollo-)
-    * [Emotional Speech Synthesis](#emotional-speech-synthesis-)
-    * [Investigating fairness and bias in E2E SLU Models](#investigating-fairness-and-bias-in-e2e-slu-models-)
-    * [Speech XAI, explaining reasons behind speech model predictions](#speech-xai-explaining-reasons-behind-speech-model-predictions-)
-    * [Combining Speech and Text Language Models](#combining-speech-and-text-language-models-)
+    * [Continual Learning in Spoken Language Understanding scenarios](#continual-learning-in-spoken-language-understanding-scenarios)
+    * [Fearless Step APOLLO](#fearless-step-apollo)
+    * [Emotional Speech Synthesis](#emotional-speech-synthesis)
+    * [Investigating fairness and bias in E2E SLU Models](#investigating-fairness-and-bias-in-e2e-slu-models)
+    * [Speech XAI, explaining reasons behind speech model predictions](#speech-xai-explaining-reasons-behind-speech-model-predictions)
+    * [Combining Speech and Text Language Models](#combining-speech-and-text-language-models)
+    * [Music Generation](#music-generation)
 
 * [Graduated Students](#graduated-students)
 
