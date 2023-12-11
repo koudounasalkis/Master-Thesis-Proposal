@@ -13,7 +13,7 @@ Table of contents
     * [Data collection and finding](#data-collection-and-finding)
     * [Code development](#code-development)
 
-* [Theses on Audio and Speech Processing](#theses-on-audio-and-speech-processing)
+* [Thesis Projects on Audio and Speech Processing](#thesis-projects-on-audio-and-speech-processing)
     * [Continual Learning in Spoken Language Understanding scenarios](#continual-learning-in-spoken-language-understanding-scenarios-)
     * [Fearless Step APOLLO](#fearless-step-apollo-)
     * [Emotional Speech Synthesis](#emotional-speech-synthesis-)
@@ -50,12 +50,16 @@ The code must be documented and easy to use.
 It also must be tested and be able to run on a different machine.
 
 
-Theses on Audio and Speech Processing
+Thesis Projects on Audio and Speech Processing
 ============
 
-### Continual Learning in Spoken Language Understanding scenarios <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Continual Learning for SLU - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
+### Continual Learning in Spoken Language Understanding scenarios 
+
+<a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Continual Learning for SLU - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+<a href="https://wiki.continualai.org/the-continualai-wiki/introduction-to-continual-learning"><img src="https://img.shields.io/badge/Continual%20Learning-yellow" alt="Continual Learning"></a>
+<a href="https://en.wikipedia.org/wiki/Virtual_assistant"><img src="https://img.shields.io/badge/Virtual%20Assistants-orange" alt="Apollo Mission"></a>
 
 ![immagine](images/continual_learning.png)
 
@@ -81,9 +85,13 @@ The **main objectives** of this thesis are:
 
 ***
 
-### Fearless Step APOLLO <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Fearless Steps APOLLO - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
+### Fearless Step APOLLO 
+
+<a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Fearless Steps APOLLO - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+<a href="https://it.wikipedia.org/wiki/NASA"><img src="https://img.shields.io/badge/NASA-yellow" alt="NASA"></a>
+<a href="https://languagearc.com/projects/21"><img src="https://img.shields.io/badge/APOLLO%20Missions-orange" alt="Apollo Mission"></a>
 
 ![immagine](images/APOLLO.png)
 
@@ -104,9 +112,13 @@ The **main objectives** of this thesis are:
 ***
 
 
-### Emotional Speech Synthesis <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Emotional Speech Synthesis - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
+### Emotional Speech Synthesis 
+
+<a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Emotional Speech Synthesis - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Speech_synthesis"><img src="https://img.shields.io/badge/Speech%20Synthesis-yellow" alt="Speech Synthesis"></a>
+<a href="https://en.wikipedia.org/wiki/Emotion_recognition"><img src="https://img.shields.io/badge/Emotion%20Recognition-orange" alt="Apollo Mission"></a>
 
 ![immagine](images/ConditionalGAN.png)
 
@@ -130,9 +142,13 @@ The **main objectives** of this thesis are:
 
 ***
 
-### Investigating fairness and bias in E2E SLU Models <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] E2E SLU Models Fairness - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Investigating fairness and bias in E2E SLU Models 
+
+<a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] E2E SLU Models Fairness - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Fairness_(machine_learning)"><img src="https://img.shields.io/badge/Fairness-yellow" alt="Fairness"></a>
+<a href="https://en.wikipedia.org/wiki/Spoken_language"><img src="https://img.shields.io/badge/Spoken Language Understanding-orange" alt="Spoken Language Understanding"></a>
 
 ![immagine](images/black_boxes.png)
 
@@ -155,9 +171,13 @@ The **main objectives** of this thesis are:
 
 ***
 
-### Speech XAI, explaining reasons behind speech model predictions <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Speech XAI - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
+### Speech XAI, explaining reasons behind speech model predictions 
+
+<a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Speech XAI - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-available-green" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Fairness_(machine_learning)"><img src="https://img.shields.io/badge/Fairness-yellow" alt="Fairness"></a>
+<a href="https://en.wikipedia.org/wiki/Explainable_artificial_intelligence"><img src="https://img.shields.io/badge/Interpretable%20Machine%20Learning-orange" alt="Interpretable Machine Learning"></a>
 
 ![immagine](images/speech_xai.png)
 
@@ -180,9 +200,13 @@ The **main objectives** of this thesis are:
 
 ***
 
-### Combining Speech and Text Language Models <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Speech and Text Language Models - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Available"></a>
+### Combining Speech and Text Language Models 
+
+<a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Speech and Text Language Models - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Available"></a>
 
 <a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Multimodal_learning"><img src="https://img.shields.io/badge/Multimodal%20Learning%20&%20Understanding-yellow" alt="Multi-modal Understanding"></a>
+<a href="https://en.wikipedia.org/wiki/Natural_language_processing"><img src="https://img.shields.io/badge/NLP-orange" alt="NLP"></a>
 
 ![immagine](images/speech_text.png)
 
@@ -199,6 +223,31 @@ The **main objectives** of this thesis are:
 2. [token2vec](https://arxiv.org/abs/2210.16755)
 3. [W2v-BERT](https://arxiv.org/abs/2108.06209)
 
+***
+
+### Music Generation 
+
+<a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Music Generation - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate-not available-red" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+<a href="https://en.wikipedia.org/wiki/Multimodal_learning"><img src="https://img.shields.io/badge/Multimodal%20Learning%20&%20Understanding-yellow" alt="Multi-modal Understanding"></a>
+<a href="https://en.wikipedia.org/wiki/Generative_music"><img src="https://img.shields.io/badge/Generative%20Modeling-orange" alt="Generative Modeling"></a>
+
+![immagine](images/music_generation.jpeg)
+from *[Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/01/how-to-perform-automatic-music-generation/)* 
+
+In recent years, the field of deep music generation has witnessed remarkable advancements driven by the integration of cutting-edge machine learning techniques. The task of generating music poses substantial challenges, as it requires proficient modeling of long-range sequences, generating high-fidelity, coherent audio, with the challenge of the limited availability of paired audio-text data, and dealing with substantial computational resource requirements. Several models have demonstrated impressive skills in music generation from the text while differing in their conditioning. Nevertheless, they still struggle with producing vocals of satisfactory quality, often yielding unclear and unintelligible outputs. Furthermore, the potential of leveraging lyric content to enhance vocal coherence and overall musical output remains underexplored.
+
+The **main objectives** of this thesis are:
+- Analyze the state-of-the-art music generation models.
+- Propose a novel approach to address the problem of lyrics intelligibility during the music generation process.
+- Demonstrate the effectiveness of the proposed approach across different objective and subjective metrics.
+
+**References:**
+
+1. [MusicGEN](https://musicgen.com/)
+2. [Jukebox](https://arxiv.org/abs/2005.00341)
+3. [AudioGEN](https://felixkreuk.github.io/audiogen/paper.pdf)
 
 ***
 
