@@ -54,6 +54,28 @@ It also must be tested and be able to run on a different machine.
 Thesis Projects on Audio and Speech Processing
 ============
 
+### Exploring Deep Learning Techniques to Improve Voice Disorder Diagnoses
+<a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Voice Disorder Diagnoses - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
+
+<a href="https://en.wikipedia.org/wiki/Audio_signal_processing"><img src="https://img.shields.io/badge/Audio%20&%20Speech%20Processing-blue" alt="Audio Processing"></a>
+<a href="https://en.wikipedia.org/wiki/List_of_voice_disorders"><img src="https://img.shields.io/badge/Continual%20Learning-yellow" alt="Voice Disorders"></a>
+<a href="https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare"><img src="https://img.shields.io/badge/AI%20in%20Healthcare-orange" alt="AI In Healthcare"></a>
+
+![immagine](images/voice_disorders.png)
+
+Voice disorders are difficult to diagnose and require expensive and invasive analysis. 
+The use of Deep Learning techniques can provide early and non-invasive diagnoses by analyzing voice samples.
+However, the limited amount of medical data is a major obstacle for the development of such systems.
+
+The **main objectives** of this thesis are:
+- Analyze voice samples by means of Deep Learning techniques to provide early and non-invasive diagnoses. 
+- Explore different types of neural architectures (CNNs and Transformers).
+- Explore different transfer-learning and data augmentation strategies to cope with the limited amount of medical data.
+
+Contact Points: [Alkis Koudounas](mailto:alkis.koudounas@polito.it), [Gabriele Ciravegna](mailto:gabriele.ciravegna@polito.it).
+
+***
+
 ### Continual Learning in Spoken Language Understanding scenarios 
 
 <a href="mailto:alkis.koudounas@polito.it?subject=[Master Thesis] Continual Learning for SLU - YOUR NAME HERE"><img src="https://shields.io/badge/Click%20to%20candidate- available-green" alt="Available"></a>
