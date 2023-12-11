@@ -14,6 +14,7 @@ Table of contents
     * [Code development](#code-development)
 
 * [Thesis Projects on Audio and Speech Processing](#thesis-projects-on-audio-and-speech-processing)
+    * [Exploring Deep Learning Techniques to Improve Voice Disorder Diagnoses](#exploring-deep-learning-techniques-to-improve-voice-disorder-diagnoses)
     * [Continual Learning in Spoken Language Understanding scenarios](#continual-learning-in-spoken-language-understanding-scenarios)
     * [Fearless Step APOLLO](#fearless-step-apollo)
     * [Emotional Speech Synthesis](#emotional-speech-synthesis)
