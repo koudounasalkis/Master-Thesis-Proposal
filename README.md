@@ -14,6 +14,8 @@ Table of contents
     * [Code development](#code-development)
 
 * [Theses on Audio and Speech Processing](#theses-on-audio-and-speech-processing)
+    * [Continual Learning in Spoken Language Understanding scenarios](#continual-learning-in-spoken-language-understanding-scenarios-)
+    * [Fearless Step APOLLO](#fearless-step-apollo-)
     * [Emotional Speech Synthesis](#emotional-speech-synthesis-)
     * [Investigating fairness and bias in E2E SLU Models](#investigating-fairness-and-bias-in-e2e-slu-models-)
     * [Speech XAI, explaining reasons behind speech model predictions](#speech-xai-explaining-reasons-behind-speech-model-predictions-)
