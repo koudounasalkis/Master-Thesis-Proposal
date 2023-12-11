@@ -122,6 +122,7 @@ The **main objectives** of this thesis are:
 1. [Emotional Speech Synthesis: A Review](http://www1.cs.columbia.edu/~julia/papers/schroeder01.pdf)
 2. [Speech Synthesis with Mixed Emotions](https://arxiv.org/pdf/2208.05890.pdf)
 3. [Hume AI](https://hume.ai/products/vocal-expression-model/?gad=1&gclid=Cj0KCQjwjryjBhD0ARIsAMLvnF-zqTYXxigxGSXAHtBm8q8J6IZHl7GHarHhUTa_wrKslZCFxNS9cKAaAmuTEALw_wcB7)
+4. [A List of Voice Conversion Papers & Projects](https://github.com/JeffC0628/awesome-voice-conversion)
 
 
 
@@ -203,5 +204,5 @@ Graduated Students
 ============
 
 - 2023
-    <!-- - [Damiano Bonaccorsi](https://github.com/ozerodb): "Speech-Text Cross-Modal Learning through Self-Attention Mechanisms" -->
+    - [Damiano Bonaccorsi](https://github.com/ozerodb): "Speech-Text Cross-Modal Learning through Self-Attention Mechanisms"
     - [Giuseppe Concialdi](https://github.com/Gio99c): "Ainur: Enhancing Vocal Quality through Lyrics-Audio Embeddings in Multimodal Deep Music Generation"
